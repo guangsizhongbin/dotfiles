@@ -1,0 +1,7 @@
+[user]
+	name = feng
+	email = guangsizhongbin@gmail.com
+[http]
+	proxy = http://0.0.0.0:8119
+[https]
+	proxy = http://0.0.0.0:8119
